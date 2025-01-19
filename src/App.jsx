@@ -6,8 +6,7 @@ function App() {
 
   return (
     <>
-      <h1>Manthan </h1>
-      <h2>Kurhejker</h2>
+      <h1>Manthan Kurhekar</h1>
     </>
   )
 }
